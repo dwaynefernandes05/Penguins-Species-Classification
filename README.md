@@ -51,9 +51,9 @@ The app will open in your browser at http://localhost:8501/ 🎉
 - Streamlit (for web app)
 
 ### **📬 Contact**
-👤 Dwayne Fernandes
-📧 dwaynefernandes470@gmail.com
-🔗 GitHub: github.com/dwaynefernandes05
+- 👤 Dwayne Fernandes
+- 📧 dwaynefernandes470@gmail.com
+- 🔗 GitHub: github.com/dwaynefernandes05
 
 ### **💡 Want to Contribute?**
 Feel free to fork the repo, make improvements, and submit a pull request! 🚀
